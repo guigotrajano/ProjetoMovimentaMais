@@ -1,0 +1,96 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 100px;
+
+}
+
+.titulo {
+
+  font-size: 32px;
+  text-align: center;
+
+  
+}
+
+.subtitulo {
+  font-size: 15px;
+  text-align: center;
+  color: #001D4C;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #f3f3f3;
+  max-width: 70%;
+  width: 400px;
+  height: 460px;
+  overflow-y: auto;    
+  scrollbar-width: thin;          
+  scrollbar-color: #ccc transparent;
+}
+
+form::-webkit-scrollbar {
+  width: 8px;
+}
+
+form::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+
+form input {
+  border-radius: 3px;
+  min-height: 40px;
+  width: 250px;
+  background-color: #fff;
+  color: #000;
+  border: none;
+  font-size: 13px;
+  padding-left: 10px;
+  outline: none;
+}
+
+.button-cadastro {
+  border-radius: 5px;
+  background-color: #004DCD !important;
+  min-height: 40px;
+  width: 250px;
+  border: none;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+}
+
+form::-webkit-scrollbar {
+  width: 8px;
+}
+
+form::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+.button-cadastro:hover {
+  opacity: 0.8;
+}
+
+select {
+   border-radius: 3px;
+  min-height: 40px;
+  width: 250px;
+  background-color: #fff;
+  color: #000;
+  border: none;
+  font-size: 13px;
+  padding-left: 10px;
+  outline: none;
+  margin-top: -20px;
+}
