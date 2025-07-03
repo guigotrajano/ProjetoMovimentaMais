@@ -35,7 +35,7 @@
 
 ## 🌍 Repositório
 
-🔗 GitHub: [https://github.com/guigotrajano/MovimentaMais](https://github.com/guigotrajano/MovimentaMais)
+🔗 GitHub: [https://github.com/guigotrajano/MovimentaMais](https://github.com/guigotrajano/ProjetoMovimentaMais)
 
 ### 🔸 Branchs:
 - [FrontEnd](https://github.com/guigotrajano/MovimentaMais/tree/FrontEnd)
@@ -59,7 +59,7 @@ Instale os seguintes recursos:
 ### 🔧 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/guigotrajano/MovimentaMais.git
+git clone https://github.com/guigotrajano/ProjetoMovimentaMais.git
 cd MovimentaMais
 
 ## BackEnd:
