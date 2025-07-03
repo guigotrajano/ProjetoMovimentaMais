@@ -38,8 +38,8 @@
 🔗 GitHub: [https://github.com/guigotrajano/MovimentaMais](https://github.com/guigotrajano/ProjetoMovimentaMais)
 
 ### 🔸 Branchs:
-- [FrontEnd](https://github.com/guigotrajano/MovimentaMais/tree/FrontEnd)
-- [BackEnd](https://github.com/guigotrajano/MovimentaMais/tree/BackEnd)
+- [FrontEnd](https://github.com/guigotrajano/ProjetoMovimentaMais/tree/FrontEnd)
+- [BackEnd](https://github.com/guigotrajano/ProjetoMovimentaMais/tree/BackEnd)
 
 ---
 
